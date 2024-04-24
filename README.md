@@ -32,5 +32,3 @@ O sistema foi desenvolvido com base em um diagrama UML fornecido. Você pode vis
 ## Contribuições
 
 Contribuições para o projeto são bem-vindas. Se você identificar bugs ou quiser adicionar novas funcionalidades, sinta-se à vontade para criar um pull request.
-
----
